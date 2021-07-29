@@ -1,0 +1,43 @@
+.diagonal-box{
+    position: relative;
+
+
+}
+#container{
+    max-width: 0;
+    margin: 0 auto;
+    position: relative;
+    float: left;
+}
+
+
+.color-div{
+
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 150px;
+    padding:15px; 15px;
+    text-align:center
+    
+}
+.colors-div{
+    background-color: green;
+    color: white;
+    width: 150px;
+    height:150px;
+    padding:15px; 15px;
+    margin-left: 150px;
+    top:0;
+    text-align:center;
+}
+.color1-div{
+    background-color: red;
+    color: white;
+    width: 150;
+    height: 150;
+    padding:15px; 15px;
+    margin-left:300px;
+    top:0;
+    text-align:center;
+}
